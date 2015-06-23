@@ -3,11 +3,19 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content=" FILL ME IN ">
-    <meta name="author" content=" FILL ME IN ">
-    <title>Cameron Pittman: Portfolio</title>
+    <meta name="description" content="Portfolio of recent projects">
+    <meta name="author" content="Matt Scaggs">
+    <title>Matt Scaggs: Portfolio</title>
 
-    <!-- Hmm, what is the impact of web fonts on speed? Measure it... -->
+    <!-- using WebFontLoader, doc: https://github.com/typekit/webfontloader -->
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+      <script>
+        WebFont.load({
+          google: {
+            families: ['Open Sans:400,700']
+          }
+        });
+      </script>
 
     <link href="css/style.css" rel="stylesheet">
     <link href="css/print.css" rel="stylesheet" media="print">
@@ -65,7 +73,6 @@
 
     <footer>
       <p>&copy; Web Performance 2014 <span id="crp-stats"></span></p>
-      <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     </footer>
   </body>
 </html>
