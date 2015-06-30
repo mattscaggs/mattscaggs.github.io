@@ -523,10 +523,12 @@ function updatePositions() {
 
   // created var x to move calc out of loop
   var x = document.body.scrollTop / 1250;
+  // declared var out of loop
+  var phase;
 
   var items = document.querySelectorAll('.mover');
   for (var i = 0; i < items.length; i++) {
-    var phase = Math.sin(x + (i % 5));
+    phase = Math.sin(x + (i % 5));
     items[i].style.left = items[i].basicLeft + 100 * phase + 'px';
   }
 
@@ -552,9 +554,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // reduce pizzas on screen down to amount needed based on window height
   var pizzasNeeded = Math.ceil(innerHeight / s) * cols;
+  // declared var out of loop
+  var elem;
 
   for (var i = 0; i < pizzasNeeded; i++) {
-    var elem = document.createElement('img');
+    elem = document.createElement('img');
     elem.className = 'mover';
     elem.src = "images/pizza.png";
     elem.style.height = "100px";
