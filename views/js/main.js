@@ -528,10 +528,12 @@ window.addEventListener('scroll', updatePositions);
 document.addEventListener('DOMContentLoaded', function() {
   var cols = 8;
   var s = 256;
+  // check users window height
   var innerHeight = window.innerHeight;
+
+  // reduce pizzas on screen down to amount needed based on window height
   var pizzasNeeded = Math.ceil(innerHeight / s) * cols;
 
-  // reduced pizzas down to amount needed based on window height
   for (var i = 0; i < pizzasNeeded; i++) {
     var elem = document.createElement('img');
     elem.className = 'mover';
