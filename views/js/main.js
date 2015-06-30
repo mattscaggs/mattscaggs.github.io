@@ -529,7 +529,8 @@ document.addEventListener('DOMContentLoaded', function() {
   var cols = 8;
   var s = 256;
   var innerHeight = window.innerHeight;
-  var pizzasNeeded = innerHeight / 100;
+  var pizzasNeeded = Math.ceil(innerHeight / s) * cols;
+
   // reduced pizzas down to amount needed based on window height
   for (var i = 0; i < pizzasNeeded; i++) {
     var elem = document.createElement('img');
