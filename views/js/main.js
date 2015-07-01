@@ -451,12 +451,13 @@ var resizePizzas = function(size) {
   // Iterates through pizza elements on the page and changes their widths
   function changePizzaSizes(size) {
     // move variables out of loop
-    var randomPizzaContainer = document.getElementsByClassName(".randomPizzaContainer");
+    var randomPizzaContainer = document.getElementsByClassName("randomPizzaContainer");
     var newwidth = [];
     var dx = determineDx(randomPizzaContainer[0], size);
     var newwidth = (randomPizzaContainer[0].offsetWidth + dx) + 'px';
+    var randomPizzaLength = randomPizzaContainer.length;
 
-    for (var i = 0; i < randomPizzaContainer.length; i++) {
+    for (var i = 0; i < randomPizzaLength; i++) {
       randomPizzaContainer[i].style.width = newwidth;
     }
   }
@@ -513,7 +514,7 @@ function updatePositions() {
   // declared var out of loop
   var phase;
 
-  var items = document.querySelectorAll('.mover');
+  var items = document.getElementsByClassName('mover');
   for (var i = 0; i < items.length; i++) {
     phase = Math.sin(x + (i % 5));
     items[i].style.left = items[i].basicLeft + 100 * phase + 'px';
@@ -537,10 +538,10 @@ document.addEventListener('DOMContentLoaded', function() {
   var cols = 8;
   var s = 256;
   // check users window height
-  var innerHeight = window.innerHeight;
+  var screenHeight = window.screen.height;
 
   // reduce pizzas on screen down to amount needed based on window height
-  var pizzasNeeded = Math.ceil(innerHeight / s) * cols;
+  var pizzasNeeded = Math.ceil(screenHeight / s) * cols;
   // declared var out of loop
   var elem;
 
@@ -552,7 +553,7 @@ document.addEventListener('DOMContentLoaded', function() {
     elem.style.width = "73.333px";
     elem.basicLeft = (i % cols) * s;
     elem.style.top = (Math.floor(i / cols) * s) + 'px';
-    document.querySelector("#movingPizzas1").appendChild(elem);
+    document.getElementById("movingPizzas1").appendChild(elem);
   }
   updatePositions();
 });
