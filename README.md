@@ -1,5 +1,7 @@
 # Udacity FE Web Dev P4
 
+Visit my project at http://mattscaggs.github.io/
+
 Index.html optimizations
 ========================
 based on page speed insights feedback:
@@ -12,8 +14,7 @@ based on page speed insights feedback:
 
 Outcome 
 -------
-93 mobile,  95desktop
-http://mattscaggs.github.io/ 
+93 mobile,  95 desktop
 
 Main.js optimizations
 =====================
