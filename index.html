@@ -38,14 +38,13 @@
       header p{padding-left:4.5em;}
     </style>
     <link href="css/print.css" rel="stylesheet" media="print">
-
-    <script>
-      (function(w,g){w['GoogleAnalyticsObject']=g;
-      w[g]=w[g]||function(){(w[g].q=w[g].q||[]).push(arguments)};w[g].l=1*new Date();})(window,'ga');
-
-      // TODO: replace with your Google Analytics profile ID.
-      ga('create', 'UA-XXXX-Y');
-      ga('send', 'pageview');
+    <script async src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+    <script async>
+        WebFont.load({
+          google: {
+            families: ['Open Sans:400,700']
+          }
+        });
     </script>
     <script async src="http://www.google-analytics.com/analytics.js"></script>
     <script async src="js/perfmatters.js"></script>
@@ -59,50 +58,37 @@
 
     <div class="container">
       <div class="hero">
-        <strong>I dig designing and developing courses!</strong> Here are some of the things I've been working on recently.<br><br> Contact me: matt dot scaggs at gmail dot com
+        <strong>I love designing and developing courses that help people perform better at work!</strong> Here are some of the things I've been working on recently. Thanks for taking a look.<br><br> Please feel free to contact me at: matt dot scaggs at gmail dot com
       </div>
 
       <div class="content">
         <ul>
 
           <li>
-            <img src="img/tictactoe_sm.png">
+            <img src="img/enjoyLogo.png">
             <a href="project-strategy.html">Training Strategy</a>
-            <p>Partnered with a new company on the approach for onboarding and continuation training for their employeees.</p>
+            <p>Partnered with Enjoy on the approach for onboarding and continuation training for their employeees.</p>
           </li>
 
           <li>
-            <img src="img/wbtLong_sm.png">
+            <img src="img/wbtMain_200.png">
             <a href="project-wbts.html">eLearning</a>
-            <p>Recent web based training course developed and deployed for mobile and desktop users.</p>
+            <p>Recent web based training courses developed and deployed for mobile and desktop users.</p>
           </li>
 
           <li>
-            <img src="img/opsLong_sm.png">
+            <img src="img/opsPic2_200.png">
             <a href="project-ops.html">Offering Personalized Solutions</a>
-            <p>I led a team in designing and deploying the first paperless classroom training for 40,000 frontline retail employees.</p>
+            <p>Led a cross functional team in designing and deploying the first paperless classroom training for 40,000 frontline retail employees.</p>
           </li>
 
-          <li>
-            <img style="width: 200px;" src="views/images/pizzeria.jpg">
-            <a href="views/pizza.html">Cam's Pizzeria</a>
-            <p>Who wants a performant pizza?</p>
-          </li>
         </ul>
     </div>
 
     <footer>
-      <p>&copy; Web Performance 2014 <span id="crp-stats"></span></p>
+      <!-- <p>&copy; Web Performance 2014 <span id="crp-stats"></span></p> -->
       <!-- shifted font to footer -->
       <!-- using WebFontLoader, doc: https://github.com/typekit/webfontloader -->
-      <script async src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
-      <script async>
-        WebFont.load({
-          google: {
-            families: ['Open Sans:400,700']
-          }
-        });
-      </script>
     </footer>
   </body>
 </html>
