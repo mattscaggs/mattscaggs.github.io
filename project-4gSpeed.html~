@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Portfolio of recent projects">
+    <meta name="author" content="Matt Scaggs">
+    <title>Matt Scaggs: Portfolio</title>
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/print.css" rel="stylesheet">
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+      ga('create', 'UA-65758606-1', 'auto');
+      ga('send', 'pageview');
+    
+    </script>
+  </head>
+
+  <body>
+    <header>
+      <a href="/"><img src="img/profilepic.jpg"></a>                                  
+      <p>Matt Scaggs<br><span>Design &amp; Development</span></p>
+    </header>
+    
+    <div class="container">
+      <div class="nav"><a href="/">Home</a> > Device Support<br><br></div>  
+      <div class="hero">
+        Since 2016, I've worked as an ecommerce product manager in the online support space, primarily focused on helping customers learn how to use their latest mobile device.
+      </div>
+      <div class="content">
+        <p>I've focused on growing customer use of online support solutions by understanding and addressing their needs, improving usability, and monitoring feedback and usage patterns. Site enhancements are delivered in partnership with UX design and agile development teams. I'm also involved in content strategy and management, including overseeing writers, SMEs, and vendors content production efforts, and coordinating with producers and delivery teams to deploy content.</p>
+        <p>The Device Support ecosystem supports customers and call center agents with:<br>
+        - searchable content like step-by-step tutorials, videos, and user guides<br>
+        - workflows to troubleshoot and resolve network, account, hardware, software, or other issues<br>
+        - an Android app with the above plus some added diagnostics<br>
+        </p><br>
+        <img class="img-responsive" src="img/devsppt.jpg"><br>
+      </div>
+    </div>
+    <footer>
+      Want to learn more? Please reach out: <a href="tel:1-801-686-8080">Phone</a> | <a href="mailto:mattscaggs@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/mattscaggs">LinkedIn</a><br><br>
+    </footer>
+  </body>
+</html>
