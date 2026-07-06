@@ -1,0 +1,46 @@
+title: Matt Scaggs
+description: >-
+  Portfolio of learning experience design, enablement, and L&D leadership work.
+url: "https://mattscaggs.github.io"
+baseurl: ""
+
+author: Matt Scaggs
+email: matt.scaggs@gmail.com
+linkedin: https://www.linkedin.com/in/mattscaggs
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+collections:
+  case_studies:
+    output: true
+    permalink: /work/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "case_studies"
+    values:
+      layout: "case-study"
+  - scope:
+      path: "about.md"
+    values:
+      layout: "default"
+  - scope:
+      path: "contact.md"
+    values:
+      layout: "default"
+  - scope:
+      path: "work.html"
+    values:
+      layout: "default"
+  - scope:
+      path: "index.html"
+    values:
+      layout: "default"
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
