@@ -26,5 +26,5 @@ stats:
     label: Cost reduction
     icon: ph-currency-circle-dollar
 image: /assets/img/ops-hero.jpg
-image_caption: "Placeholder — the current live site's opsPeople.jpg (may be a composite of multiple sample screens), pull it from the GitHub repo ZIP backup and drop it in at this path."
+image_caption: "Sample screens from the course, including the game-like elements and achievements."
 ---

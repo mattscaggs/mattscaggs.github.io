@@ -24,7 +24,7 @@ stats:
     label: "Core tools: InDesign, Lectora, Illustrator, Photoshop"
     icon: ph-paint-brush
 image: /assets/img/elearning-hero.jpg
-image_caption: "Placeholder — the current live site's wbtGroup.jpg, pull it from the GitHub repo ZIP backup and drop it in at this path."
+image_caption: "A sample of the self-paced courses built for tablet and PC delivery."
 demo_link:
   url: "https://mattscaggs.github.io/wearables/index.html"
   label: "See a working example: a course on wearables"

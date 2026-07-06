@@ -23,7 +23,7 @@ stats:
   - number: "Dozens"
     label: Peer-contributed walkthrough videos
     icon: ph-video-camera
-image: /assets/img/tools-hub-hero.jpg
-image_caption: "Placeholder — candidate: a Quick Client Check workflow screenshot from the Drive ProjectImages folder. Drop the real file in at this path."
+image: /assets/img/tools-hub-hero.png
+image_caption: "A Quick Client Check workflow walkthrough, one of the peer-recorded resources in Tools Hub."
 ---
 Built and tracked adoption through a dedicated usage-analytics dashboard, reviewed half-yearly. The library grew to dozens of peer-contributed walkthroughs across account-management tools.

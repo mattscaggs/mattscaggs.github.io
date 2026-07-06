@@ -27,5 +27,5 @@ stats:
     label: Increase in successful troubleshooting referrals
     icon: ph-arrow-up-right
 image: /assets/img/device-support-hero.jpg
-image_caption: "Placeholder — the current live site's devsppt.jpg, pull it from the GitHub repo ZIP backup and drop it in at this path."
+image_caption: "The Device Support experience on att.com."
 ---

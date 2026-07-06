@@ -25,7 +25,7 @@ stats:
     label: "Delivery formats: live event, live virtual, recorded, self-paced"
     icon: ph-squares-four
 image: /assets/img/4g-speedway-hero.jpg
-image_caption: "Placeholder — the current live site's 4gSpeed.jpg, pull it from the GitHub repo ZIP backup and drop it in at this path."
+image_caption: "Materials from the 4G Speedway rollout."
 quote: >-
   You were amazing to partner with on the 4G project. Thanks a million for all that you've done. We officially (and
   formally) trained 25K internal and another 4K external employees on our message – with an average knowledge test

@@ -22,7 +22,7 @@ stats:
   - number: "10+"
     label: Industry verticals covered
     icon: ph-globe
-image: /assets/img/vertical-foundations-hero.jpg
-image_caption: "Placeholder — candidate: the 'Select Your Industry' course-grid screenshot from the Drive ProjectImages folder. Drop the real file in at this path."
+image: /assets/img/vertical-foundations-hero.png
+image_caption: "The Vertical Foundations Learning course library, organized by industry."
 ---
 Content was reused by Facebook's external agency partners too: same library, two audiences.
