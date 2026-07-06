@@ -1,0 +1,65 @@
+---
+layout: default
+---
+<div class="breadcrumb">
+  <a href="{{ '/' | relative_url }}">Home</a> &gt;
+  <a href="{{ '/work.html' | relative_url }}">Work</a> &gt;
+  {{ page.title }}
+</div>
+
+<div class="case-title-row">
+  <h1>{{ page.title }}</h1>
+  {% if page.tag %}<span class="tag-pill">{{ page.tag }}</span>{% endif %}
+</div>
+
+<div class="meta-row">
+  {% if page.company or page.role %}
+  <span><i class="ph ph-buildings" aria-hidden="true"></i>{{ page.company }}{% if page.role %} · {{ page.role }}{% endif %}</span>
+  {% endif %}
+  {% if page.years %}
+  <span><i class="ph ph-calendar" aria-hidden="true"></i>{{ page.years }}</span>
+  {% endif %}
+</div>
+
+<p class="case-intro">{{ page.intro }}</p>
+
+{% if page.stats and page.stats.size > 0 %}
+<div class="stat-grid">
+  {% for stat in page.stats %}
+  <div class="stat-card">
+    <div>
+      <div class="stat-number">{{ stat.number }}</div>
+      <div class="stat-label">{{ stat.label }}</div>
+    </div>
+    <div class="icon-badge">
+      <i class="ph {{ stat.icon }}" aria-hidden="true"></i>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+
+{% if page.image %}
+<img class="case-image" src="{{ page.image | relative_url }}" alt="{{ page.image_caption | default: page.title }}">
+{% if page.image_caption %}<p class="case-image-caption">{{ page.image_caption }}</p>{% endif %}
+{% endif %}
+
+{% if page.demo_link %}
+<div class="demo-link">
+  <i class="ph ph-arrow-square-out" aria-hidden="true"></i>
+  <a href="{{ page.demo_link.url }}">{{ page.demo_link.label }}</a>
+</div>
+{% endif %}
+
+{% if page.quote %}
+<div class="pull-quote">
+  <p>&ldquo;{{ page.quote }}&rdquo;</p>
+  {% if page.quote_attribution %}<div class="pull-quote-attribution">&mdash; {{ page.quote_attribution }}</div>{% endif %}
+</div>
+{% endif %}
+
+{{ content }}
+
+<div class="cta-row">
+  <a href="{{ '/contact.html' | relative_url }}"><i class="ph ph-arrow-right" aria-hidden="true"></i>Have a project we should tackle?</a>
+</div>
