@@ -23,4 +23,3 @@ stats:
     label: Enjoy stayed partnered with AT&T and grew to more markets since
     icon: ph-map-pin
 ---
-No AT&T-side team to credit here, this was run solo from the training-team point of view.

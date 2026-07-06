@@ -29,4 +29,3 @@ demo_link:
   url: "https://mattscaggs.github.io/wearables/index.html"
   label: "See a working example: a course on wearables"
 ---
-Kept as its own entry deliberately: this carries the IC/freelance-credibility angle and shows a people leader who still has hands-on craft, not just delegated it.

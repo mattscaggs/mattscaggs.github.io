@@ -25,4 +25,3 @@ stats:
     label: Cingular Summit Awards won
     icon: ph-trophy
 ---
-Early-career chapter rather than a Manager/IC case study: this nine-year run across sales and training is the foundation the rest of the career builds on.

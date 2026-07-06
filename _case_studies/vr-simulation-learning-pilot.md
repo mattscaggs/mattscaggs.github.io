@@ -23,4 +23,4 @@ stats:
 image: /assets/img/vr-pilot-hero.jpg
 image_caption: "Placeholder — candidates in the Drive VR_pilot folder include the Airbnb-themed green-screen composite shots. Drop the real file in at this path."
 ---
-Takeaway: the more novel format didn't outperform simpler, people-centered practice. Findings shaped later enablement investment toward peer practice and manager coaching instead of immersive tech. Kept as a lessons-learned entry, not a success metric.
+Takeaway: the more novel format didn't outperform simpler, people-centered practice. Findings shaped later enablement investment toward peer practice and manager coaching instead of immersive tech.
