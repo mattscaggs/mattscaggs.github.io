@@ -27,11 +27,13 @@ stats:
   - number: "3X+"
     label: Hiring surge absorbed while cutting support burden ~40%
     icon: ph-arrow-up-right
-image: /assets/img/cross-lob-hero.jpg
-image_caption: "Accepting LinkedIn's \"Building Our Future Together\" award on stage at SK23, on behalf of the broader team who built the redesign."
-quote: >-
-  Matt set the standard and example of how LXD was looking to operate, moving from reactionary developers to thought
-  leaders in the learning programs being supported.
-quote_attribution: "Sara Phillips, Head of LXD & KM, COE"
 ---
+<div class="pull-quote">
+  <p>&ldquo;Matt set the standard and example of how LXD was looking to operate, moving from reactionary developers to thought leaders in the learning programs being supported.&rdquo;</p>
+  <div class="pull-quote-attribution">&mdash; Sara Phillips, Head of LXD &amp; KM, COE</div>
+</div>
+
 Delivered through Cornerstone (CSOD), which I configured and structured the content hierarchy for. The work earned LinkedIn's "Building Our Future Together" award at our 2023 sales kickoff, which I accepted on stage on behalf of the much bigger group across LXD, Onboarding, Blueprint, and PMO who actually made it happen.
+
+<img class="case-image" src="/assets/img/cross-lob-hero.jpg" alt="Accepting LinkedIn's &quot;Building Our Future Together&quot; award on stage at SK23, on behalf of the broader team who built the redesign.">
+<p class="case-image-caption">Accepting LinkedIn's "Building Our Future Together" award on stage at SK23, on behalf of the broader team who built the redesign.</p>
