@@ -3,7 +3,7 @@ layout: default
 title: Work
 ---
 <h1>Work</h1>
-<p>Case studies grouped by company and role era, most recent first. Each is tagged Manager, IC, Both, or Early Career.</p>
+<p>Case studies grouped by company and role era, most recent first.</p>
 
 <div class="work-list">
   {% assign linkedin_cs = site.case_studies | where: "era", "linkedin" | sort: "order" %}
@@ -33,7 +33,7 @@ title: Work
   </a>
   {% endfor %}
 
-  <h2 class="work-era-heading">Cingular / AT&amp;T · 2000–2019</h2>
+  <h2 class="work-era-heading">AT&amp;T / Cingular / Cellular One · 2000–2019</h2>
   {% for cs in att_cs %}
   <a class="work-list-item" href="{{ cs.url | relative_url }}" style="color: inherit; text-decoration: none;">
     <div>

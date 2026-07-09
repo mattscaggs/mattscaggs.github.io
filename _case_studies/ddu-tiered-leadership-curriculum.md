@@ -5,7 +5,7 @@ role: Manager, LXD
 years: "2023–2025"
 tag: Manager
 era: linkedin
-order: 3
+order: 1
 featured: false
 intro: >
   DDU (Data Driven University) was LinkedIn's leadership program, formerly a full day of lecture open only to senior

@@ -3,9 +3,9 @@ title: Cross-LOB Onboarding Redesign
 company: LinkedIn
 role: Manager, LXD
 years: "2022–2023"
-tag: Manager
+tag: Both
 era: linkedin
-order: 1
+order: 3
 featured: true
 featured_order: 1
 featured_icon: ph-path
