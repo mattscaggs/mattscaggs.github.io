@@ -3,7 +3,7 @@ title: DDU Tiered Leadership Curriculum
 company: LinkedIn
 role: Manager, LXD
 years: "2023–2025"
-tag: Manager
+tag: People Leader
 era: linkedin
 order: 1
 featured: false

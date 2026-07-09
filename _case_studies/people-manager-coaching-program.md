@@ -3,7 +3,7 @@ title: People-Manager Coaching Program
 company: LinkedIn
 role: Manager, LXD
 years: "2024"
-tag: Manager
+tag: People Leader
 era: linkedin
 order: 2
 featured: true
