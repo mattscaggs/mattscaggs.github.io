@@ -28,5 +28,7 @@ stats:
   - number: "3X+"
     label: Hiring surge absorbed while cutting support burden ~40%
     icon: ph-arrow-up-right
+image: /assets/img/cross-lob-hero.jpg
+image_caption: "Accepting LinkedIn's \"Building Our Future Together\" award on stage at SK23, on behalf of the broader team who built the redesign."
 ---
-Delivered through Cornerstone (CSOD), which I configured and structured the content hierarchy for, activating the platform for 10,000+ sales professionals who had no prior structured learning access.
+Delivered through Cornerstone (CSOD), which I configured and structured the content hierarchy for, activating the platform for 10,000+ sales professionals who had no prior structured learning access. The work earned LinkedIn's "Building Our Future Together" award at our 2023 sales kickoff, which I accepted on stage on behalf of the much bigger group across LXD, Onboarding, Blueprint, and PMO who actually made it happen.
