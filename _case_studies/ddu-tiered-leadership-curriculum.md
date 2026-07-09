@@ -25,15 +25,14 @@ stats:
     icon: ph-trend-up
 image: /assets/img/ddu-hero.png
 image_caption: "The DDU Lite course landing page, one of four self-paced modules in the redesigned program."
-quote: >-
-  We spent two intense days working through real business challenges as a cohort, focusing on prioritization,
-  communication, and structured problem solving, with plenty of hands-on time to apply it directly to our work. We
-  wrapped with a Shark Tank-style presentation back to the group, equal parts fun and humbling. I'm walking away with
-  practical tools I'm already putting to use.
-quote_attribution: "Megan Goodell, Director, HR Business Partner, Engineering"
 ---
 Core and Plus, now called DDU Advanced, both build on Lite as a shared foundation. Once Lite was live, we rebuilt Core into a hands-on, practice-focused workshop for senior managers, spending live session time collaborating to solve real problems from their own parts of the business rather than sitting through more lecture. Plus added an accelerated tier for Directors and above.
 
 Altogether, the redesign significantly improved the learning experience for more audiences across the company. The part I'm most proud of: it truly democratized the core concepts so *everyone*, not just senior leaders, could access them, which lined up with LinkedIn's mission to empower the global workforce. This redesign aimed to do the same for LinkedIn's own workforce.
 
 Years after the redesign, leaders are still requesting seats in DDU Advanced and posting about it afterward, unprompted.
+
+<div class="pull-quote">
+  <p>&ldquo;We spent two intense days working through real business challenges as a cohort, focusing on prioritization, communication, and structured problem solving, with plenty of hands-on time to apply it directly to our work. We wrapped with a Shark Tank-style presentation back to the group, equal parts fun and humbling. I'm walking away with practical tools I'm already putting to use.&rdquo;</p>
+  <div class="pull-quote-attribution">&mdash; Megan Goodell, Director, HR Business Partner, Engineering</div>
+</div>
