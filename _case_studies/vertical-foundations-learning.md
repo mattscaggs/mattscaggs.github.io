@@ -11,10 +11,9 @@ featured_order: 4
 featured_icon: ph-books
 featured_blurb: "Built a self-serve course library for teams to ramp on any industry vertical."
 intro: >
-  I built Vertical Foundations Learning, a self-serve course library organized by industry rather than by tool
-  (automotive, retail, travel, financial services, gaming, health, and more), pairing a short course with a podcast and
-  a reference guide for each vertical, so account teams could ramp up on an industry fast without waiting for a live
-  training session.
+  I built Vertical Foundations Learning, a self-serve course library organized by industry: automotive, retail,
+  travel, financial services, gaming, health, and more. Each vertical paired a short course with a podcast and a
+  reference guide, so account teams could ramp up on an industry fast without waiting for a live training session.
 stats:
   - number: "20%"
     label: Cut in ramp time
