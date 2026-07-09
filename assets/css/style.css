@@ -107,10 +107,6 @@ p { margin: 0 0 16px; }
 @media (max-width: 560px) {
   .card-grid { grid-template-columns: 1fr; }
 }
-.card-grid + a.underline-link {
-  display: inline-block;
-  margin-top: 28px;
-}
 .project-card {
   border: 0.5px solid var(--border);
   border-radius: 8px;
