@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact
+hide_footer: true
 ---
 <div class="contact-center">
   <h1>Have a project we should tackle?</h1>
