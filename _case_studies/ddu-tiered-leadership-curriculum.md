@@ -13,15 +13,16 @@ intro: >
   aligned to the company's competency framework and open to nearly everyone. The rebuild moved like a relay across
   designers: one built the first two courses with a contract developer, handed off to a colleague for the third,
   another for the fourth, and finally a designer who partnered closely with me to restructure the entire program.
+  Here's how Lite performed:
 stats:
   - number: "4"
-    label: "Lite: self-paced 30-minute courses, replacing a full day of lecture"
+    label: "Self-paced 30-minute courses, replacing a full day of lecture"
     icon: ph-clock
   - number: "90%+"
-    label: "Lite: learners called it a valuable, impactful use of their time"
+    label: "Learners called it a valuable, impactful use of their time"
     icon: ph-seal-check
   - number: "22,000"
-    label: "Lite: expanded company-wide after a senior leader's personal recommendation, up from an initial 5,000-person pilot"
+    label: "Expanded company-wide after a senior leader's personal recommendation, up from an initial 5,000-person pilot"
     icon: ph-trend-up
 image: /assets/img/ddu-hero.png
 image_caption: "The DDU Lite course landing page, one of four self-paced modules in the redesigned program."
