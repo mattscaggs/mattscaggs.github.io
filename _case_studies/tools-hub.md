@@ -2,7 +2,7 @@
 title: Tools Hub
 company: Facebook
 role: Sr. Instructional Designer
-years: "2019–2021"
+years: "2019"
 tag: IC
 era: facebook
 order: 1

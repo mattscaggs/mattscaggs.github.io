@@ -2,7 +2,7 @@
 title: VR/Simulation Learning Pilot
 company: Facebook
 role: Sr. Instructional Designer
-years: "2019–2021"
+years: "2020"
 tag: IC
 era: facebook
 order: 4

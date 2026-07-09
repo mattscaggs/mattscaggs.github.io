@@ -2,7 +2,7 @@
 title: Vertical Foundations Learning
 company: Facebook
 role: Sr. Instructional Designer
-years: "2019–2021"
+years: "2020–2021"
 tag: IC
 era: facebook
 order: 2
