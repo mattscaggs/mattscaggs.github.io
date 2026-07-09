@@ -3,7 +3,7 @@ title: 4G Speedway
 company: AT&T
 role: Lead Instructional Designer
 years: "2011"
-tag: Manager
+tag: IC
 era: att
 order: 5
 featured: false

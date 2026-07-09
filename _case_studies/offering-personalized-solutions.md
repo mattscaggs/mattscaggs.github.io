@@ -3,7 +3,7 @@ title: Offering Personalized Solutions (OPS)
 company: AT&T
 role: Sr. Instructional Designer
 years: "2012"
-tag: Manager
+tag: IC
 era: att
 order: 4
 featured: false

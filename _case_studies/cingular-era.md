@@ -1,5 +1,5 @@
 ---
-title: Cingular Era
+title: Cingular / Cellular One Era
 company: Cingular
 role: "Retail Sales Consultant/Acting Manager → Corporate Account Executive → Retail Data Manager → Sr. Training Manager, Delivery"
 years: "2000–2009"
